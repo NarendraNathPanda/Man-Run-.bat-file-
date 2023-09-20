@@ -1,0 +1,3 @@
+[autorun]
+
+color 2 & curl ascii.live/forrest
